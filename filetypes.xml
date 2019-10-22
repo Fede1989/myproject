@@ -6,6 +6,7 @@
       <mapping pattern="FilterProduct" type="CLASS" />
       <mapping pattern="querytemplate.ftl" type="PLAIN_TEXT" />
       <mapping pattern="querytemplate" type="PLAIN_TEXT" />
+      <mapping ext="ftl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
