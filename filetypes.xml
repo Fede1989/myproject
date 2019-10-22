@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="FilteredProducts" type="CLASS" />
       <mapping pattern="MySearchComponent" type="CLASS" />
       <mapping pattern="FilterProduct" type="CLASS" />
       <mapping pattern="querytemplate.ftl" type="PLAIN_TEXT" />
