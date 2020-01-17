@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="FilteredProducts" type="CLASS" />
       <mapping pattern="MySearchComponent" type="CLASS" />
       <mapping pattern="FilterProduct" type="CLASS" />
+      <mapping pattern="FilteredProducts" type="CLASS" />
       <mapping pattern="ProvaCrisp" type="JAVA" />
       <mapping pattern="querytemplate.ftl" type="PLAIN_TEXT" />
       <mapping pattern="querytemplate" type="PLAIN_TEXT" />
